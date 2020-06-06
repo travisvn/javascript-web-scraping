@@ -1,0 +1,23 @@
+{
+  "name": "javascript-web-scraping",
+  "version": "1.0.0",
+  "description": "testing this out",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/travisvn/javascript-web-scraping.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/travisvn/javascript-web-scraping/issues"
+  },
+  "homepage": "https://github.com/travisvn/javascript-web-scraping#readme",
+  "dependencies": {
+    "puppeteer": "^3.3.0"
+  }
+}
