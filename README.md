@@ -1,2 +1,2 @@
 # javascript-web-scraping
-testing this out
+basic web scraping with Javascript using Puppeteer
